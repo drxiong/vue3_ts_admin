@@ -2,8 +2,7 @@
   <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
     <!-- <p>count: {{ count }}</p>
     <button @click="clickHandle">count++</button>
-   <router-link to="/home">Home</router-link>
-   <router-link to="/about">About</router-link> -->
+ -->
    <router-view></router-view>
 </template>
 
